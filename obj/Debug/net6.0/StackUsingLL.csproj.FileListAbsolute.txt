@@ -1,0 +1,15 @@
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\bin\Debug\net6.0\StackUsingLL.exe
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\bin\Debug\net6.0\StackUsingLL.deps.json
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\bin\Debug\net6.0\StackUsingLL.runtimeconfig.json
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\bin\Debug\net6.0\StackUsingLL.dll
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\bin\Debug\net6.0\StackUsingLL.pdb
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\obj\Debug\net6.0\StackUsingLL.csproj.AssemblyReference.cache
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\obj\Debug\net6.0\StackUsingLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\obj\Debug\net6.0\StackUsingLL.AssemblyInfoInputs.cache
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\obj\Debug\net6.0\StackUsingLL.AssemblyInfo.cs
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\obj\Debug\net6.0\StackUsingLL.csproj.CoreCompileInputs.cache
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\obj\Debug\net6.0\StackUsingLL.dll
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\obj\Debug\net6.0\refint\StackUsingLL.dll
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\obj\Debug\net6.0\StackUsingLL.pdb
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\obj\Debug\net6.0\StackUsingLL.genruntimeconfig.cache
+C:\Users\prajw\source\repos\StackUsingLL\StackUsingLL\obj\Debug\net6.0\ref\StackUsingLL.dll
