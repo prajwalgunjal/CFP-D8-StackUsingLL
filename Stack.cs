@@ -79,6 +79,11 @@ namespace StackUsingLL
             }
             return  count;
         }
+
+        public void peek()
+        {
+            Console.WriteLine("Data on top is:- " +tail.Data);
+        }
         public void Display()
         {
             if(head == null)

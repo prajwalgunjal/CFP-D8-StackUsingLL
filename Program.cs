@@ -18,7 +18,8 @@
             stack.Display();
             Console.WriteLine();
             stack.isEmpty ();
-
+            Console.WriteLine();
+            stack.peek();
         }
     }
 }
