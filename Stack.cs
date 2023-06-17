@@ -59,8 +59,25 @@ namespace StackUsingLL
             }
             else
             {
-                //Console.WriteLine("Size of your stack is " + size());
+                Console.WriteLine("Size of your stack is " +size());
             }
+        }
+
+        public int size()
+        {
+            Node <T> node = head;
+            int count = 1;
+            if (head == null)
+            {
+                return 0;
+            }
+            while (node.next!= null)
+            {
+                count++;
+
+                node = node.next;
+            }
+            return  count;
         }
         public void Display()
         {
