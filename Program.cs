@@ -13,6 +13,9 @@
             stack.add (6);
             stack.add (7);
             stack.Display ();
+            Console.WriteLine();
+            stack.pop ();
+            stack.Display();
 
         }
     }

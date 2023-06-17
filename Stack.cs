@@ -24,6 +24,31 @@ namespace StackUsingLL
             }
         }
 
+        public void pop()
+        {
+            if (head == null)
+            {
+                Console.WriteLine("List is empty. Cannot pop.");
+                return;
+            }
+
+            if (head == tail)
+            {
+                Console.WriteLine("Popped Data: " + head.Data);
+                head = null;
+                tail = null;
+                return;
+            }
+            Node<T> newNode = head;
+            while (newNode.next != tail)
+            {
+                newNode = newNode.next;
+            }
+                Console.WriteLine("Popped Data :- " + tail.Data);
+                tail = newNode;
+                tail.next = null;
+            
+        }
         public void Display()
         {
             if(head == null)
