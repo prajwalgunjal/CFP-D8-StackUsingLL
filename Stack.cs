@@ -49,6 +49,19 @@ namespace StackUsingLL
                 tail.next = null;
             
         }
+
+
+        public void isEmpty()
+        {
+            if (head == null)
+            {
+                Console.WriteLine("Your stack is empty !!!");
+            }
+            else
+            {
+                //Console.WriteLine("Size of your stack is " + size());
+            }
+        }
         public void Display()
         {
             if(head == null)
